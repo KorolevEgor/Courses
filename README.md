@@ -8,4 +8,5 @@ Fundamentals of Mathematical Statistics part 2: https://stepik.org/cert/1039800
 
 
 Introduction to Mathematical Modeling: https://intuit.ru/verifydiplomas/101468856  
+Fundamentals of Mathematical Modeling: https://intuit.ru/verifydiplomas/101469043  
 
