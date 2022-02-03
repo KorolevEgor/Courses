@@ -5,6 +5,8 @@ C++ Red Belt: https://coursera.org/share/1f52160c8d1c8230b876ffc04ad255ad
 
 Introduction to Machine Learning: https://coursera.org/share/93845b36b4720e73f7278f25137f6137
 
+MIPT Git/Linux: https://drive.google.com/file/d/19TgKPwyvUICARwZwgEYIMbjtLN8qpmv9/view?usp=sharing
+
 Divide and Conquer, Sorting and Searching, and Randomized Algorithms: https://coursera.org/share/e05ddcc16a9f142d1f72d19702af4686
 
 Fundamentals of Mathematical Statistics part 1: https://stepik.org/cert/1037953  
